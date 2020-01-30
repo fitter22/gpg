@@ -36,7 +36,7 @@
 
 // System
 #include <vector>
-
+#include <boost/thread.hpp>
 
 // PCL
 #include <pcl/common/common.h>
